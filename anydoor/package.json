@@ -1,0 +1,30 @@
+{
+  "name": "anydoor",
+  "version": "0.1.0",
+  "description": "imooc-node-andoor",
+  "main": "src/app.js",
+  "bin":{
+    "anydoor":"bin/anydoor"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaseminLi"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaseminLi/YaseminLi/issues"
+  },
+  "homepage": "https://github.com/YaseminLi/YaseminLi#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1"
+  },
+  "dependencies": {
+    "curl": "^0.1.4",
+    "handlebars": "^4.1.0",
+    "yargs": "^13.2.2"
+  }
+}
