@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "curl": "^0.1.4",
-    "handlebars": "^4.1.0",
+    "handlebars": "^4.7.7",
     "yargs": "^13.2.2"
   }
 }
